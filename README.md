@@ -18,14 +18,9 @@ The system ensures a quick booking process through the following steps:
 5. Enter personal information (Name and Email).
 6. Complete the reservation.
 
-## 4. Implementation Details
-* **Website Builder:** Hocoos
-* **Frontend:** Web-based interface
-* **Deployment:** Hosted online for 24/7 access
-
-## 5. How to Access
+## 4. How to Access
 The live demonstration of the website can be accessed via the following link:
 [https://marlon48.hocoos.site/](https://marlon48.hocoos.site/)
 
-## 6. Future Extension
+## 5. Future Extension
 While the current version focuses on the appointment framework, future updates will integrate advanced AI models to analyze symptoms and provide personalized diagnostic suggestions.
